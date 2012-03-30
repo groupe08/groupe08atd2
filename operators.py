@@ -1,5 +1,6 @@
-def add(x,y):
-    None
+def add(x, y):
+    return x + y
 
-def mul(x,y):
-    None
+
+def mul(x, y):
+    return x * y
